@@ -10,5 +10,5 @@
 | День | Тема | Задание | Дедлайн | Материалы |
 |---------|---------|---------|---------|---------|
 | 15.09.23 | NLTK. WordNet. FrameNet. |         |         |[тетрадка](https://colab.research.google.com/drive/1wkGhPdzPkYFgwXHDnVVyQBy464YUXgQL?usp=sharing)|
-|      |      |         |         |         |
+| 22.09.23 | FrameNet (продолжение). |         |         |         |
 |      |      |         |         |         |
