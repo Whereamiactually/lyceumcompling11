@@ -7,6 +7,6 @@
 
 | День | Тема | Задание | Дедлайн | Материалы |
 |---------|---------|---------|---------|---------|
-| 15.09.23 | NLTK. WordNet. FrameNet. |         |         |[NLTK. WordNet. FrameNet](https://colab.research.google.com/drive/1wkGhPdzPkYFgwXHDnVVyQBy464YUXgQL?usp=sharing)|
+| 15.09.23 | NLTK. WordNet. FrameNet. |         |         |[NLTK. WordNet. FrameNet.](https://colab.research.google.com/drive/1wkGhPdzPkYFgwXHDnVVyQBy464YUXgQL?usp=sharing)|
 | 22.09.23 | FrameNet (продолжение). Морф. анализаторы (recap). Трансдьюсеры. |         |         | [Анализаторы и трансдьюсеры.](https://colab.research.google.com/drive/1CLsUBWsCOREx-83zwPfgrJ3PSg9qXXmf?usp=sharing)        |
 | 29.09.23 |      |         |         |         |
