@@ -13,3 +13,9 @@
 | 20.10.23 | Перевод. Выравнивание текста. ||| [Перевод,](https://colab.research.google.com/drive/1ebp6y6TjBS7rcW0LbbLTnKLfqiqNzKWk?usp=sharing)  [выравнивание текста.](https://colab.research.google.com/drive/17zWrd5z1m9xPb6LPU5eWGBKnip2uTYFz?usp=sharing)|
 | 27.10.23 | Краулинг. ||| [Краулинг.](https://colab.research.google.com/drive/121CeK7sm2StYH6Alxu5BMD_2afC9cXeg?usp=sharing) |
 | 10.11.23 | Контрольная работа. || 11.11 9:00 ||
+| 17.11.23 | Чат-боты. ||||
+||||||
+||||||
+||||||
+||||||
+||||||
